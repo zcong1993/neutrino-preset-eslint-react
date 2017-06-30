@@ -1,6 +1,9 @@
 # neutrino-preset-eslint-react
 
 [![NPM version](https://img.shields.io/npm/v/neutrino-preset-eslint-react.svg?style=flat)](https://npmjs.com/package/neutrino-preset-eslint-react) [![NPM downloads](https://img.shields.io/npm/dm/neutrino-preset-eslint-react.svg?style=flat)](https://npmjs.com/package/neutrino-preset-eslint-react) [![CircleCI](https://circleci.com/gh/zcong1993/neutrino-preset-eslint-react/tree/master.svg?style=shield)](https://circleci.com/gh/zcong1993/neutrino-preset-eslint-react/tree/master)
+[![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg)](https://github.com/zcong1993/neutrino-preset-eslint-react)
+
+> Neutrino preset for react project adding [xo](https://github.com/sindresorhus/xo)'s base JS ESLint config, following the [xo](https://github.com/sindresorhus/xo) styleguide
 
 ## Install
 
