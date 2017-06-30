@@ -1,6 +1,6 @@
 {
   "name": "neutrino-preset-eslint-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Neutrino preset for react project adding xo&#39;s base JS ESLint config, following the xo styleguide",
   "repository": {
     "url": "zcong1993/neutrino-preset-eslint-react",
